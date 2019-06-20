@@ -1,0 +1,16 @@
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\03_Badges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\03_Badges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\03_Badges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\03_Badges_Tests\bin\Debug\03_Badges_Tests.dll
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\03_Badges_Tests\bin\Debug\03_Badges_Tests.pdb
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\03_Badges_Tests\bin\Debug\03_Badges.dll
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\03_Badges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\03_Badges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\03_Badges_Tests\bin\Debug\03_Badges.pdb
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\03_Badges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\03_Badges_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\03_Badges_Tests\obj\Debug\03_Badges_Tests.csprojAssemblyReference.cache
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\03_Badges_Tests\obj\Debug\03_Badges_Tests.csproj.CoreCompileInputs.cache
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\03_Badges_Tests\obj\Debug\03_Badges_Tests.csproj.CopyComplete
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\03_Badges_Tests\obj\Debug\03_Badges_Tests.dll
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\03_Badges_Tests\obj\Debug\03_Badges_Tests.pdb

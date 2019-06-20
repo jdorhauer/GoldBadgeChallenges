@@ -1,0 +1,6 @@
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\01_Cafe\bin\Debug\01_Cafe.dll
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\01_Cafe\bin\Debug\01_Cafe.pdb
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\01_Cafe\obj\Debug\01_Cafe.csprojAssemblyReference.cache
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\01_Cafe\obj\Debug\01_Cafe.csproj.CoreCompileInputs.cache
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\01_Cafe\obj\Debug\01_Cafe.dll
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\01_Cafe\obj\Debug\01_Cafe.pdb
