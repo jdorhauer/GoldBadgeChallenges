@@ -23,7 +23,7 @@ namespace _02_Komodo_Tests
         public void DateTests()
         {
             DateTime actual = _claim.DateOfIncident;
-            DateTime expected = new DateTime(06 / 02 / 2019);
+            DateTime expected = DateTime.Parse("06/02/2019");
 
             Assert.AreEqual(actual, expected);
         }
