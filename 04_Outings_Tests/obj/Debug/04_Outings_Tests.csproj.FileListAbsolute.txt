@@ -1,0 +1,16 @@
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\04_Outings_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\04_Outings_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\04_Outings_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\04_Outings_Tests\bin\Debug\04_Outings_Tests.dll
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\04_Outings_Tests\bin\Debug\04_Outings_Tests.pdb
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\04_Outings_Tests\bin\Debug\04_Outings_Repository.dll
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\04_Outings_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\04_Outings_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\04_Outings_Tests\bin\Debug\04_Outings_Repository.pdb
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\04_Outings_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\04_Outings_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\04_Outings_Tests\obj\Debug\04_Outings_Tests.csprojAssemblyReference.cache
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\04_Outings_Tests\obj\Debug\04_Outings_Tests.csproj.CoreCompileInputs.cache
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\04_Outings_Tests\obj\Debug\04_Outings_Tests.csproj.CopyComplete
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\04_Outings_Tests\obj\Debug\04_Outings_Tests.dll
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\04_Outings_Tests\obj\Debug\04_Outings_Tests.pdb

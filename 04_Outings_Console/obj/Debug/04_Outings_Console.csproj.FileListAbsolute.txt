@@ -1,0 +1,10 @@
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\04_Outings_Console\bin\Debug\04_Outings_Console.exe.config
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\04_Outings_Console\bin\Debug\04_Outings_Console.exe
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\04_Outings_Console\bin\Debug\04_Outings_Console.pdb
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\04_Outings_Console\bin\Debug\04_Outings_Repository.dll
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\04_Outings_Console\bin\Debug\04_Outings_Repository.pdb
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\04_Outings_Console\obj\Debug\04_Outings_Console.csprojAssemblyReference.cache
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\04_Outings_Console\obj\Debug\04_Outings_Console.csproj.CoreCompileInputs.cache
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\04_Outings_Console\obj\Debug\04_Outings_Console.csproj.CopyComplete
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\04_Outings_Console\obj\Debug\04_Outings_Console.exe
+C:\ElevenFifty\DotNetProjects\GoldBadgeChallenges\04_Outings_Console\obj\Debug\04_Outings_Console.pdb
